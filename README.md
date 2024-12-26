@@ -7,10 +7,10 @@
 
 ---
 
-- 🎓 دانشجوی رشته هوش مصنوعی در دانشگاه شیراز.
-- 💻 مهارت در برنامه‌نویسی با زبان پایتون.
-- 🌱 در حال یادگیری موضوعات جدید مرتبط با هوش مصنوعی و یادگیری عمیق.
-- 📫 راه ارتباطی: [fatemedehghani4338@gmail.com](mailto:fatemedehghani4338@gmail.com).
+- 🎓 AI student at Shiraz University.
+- 💻 Skilled in Python programming.
+- 🌱 Currently learning new topics related to Artificial Intelligence and Deep Learning.
+- 📫 Contact me at: [fatemedehghani4338@gmail.com](mailto:fatemedehghani4338@gmail.com).
 
 ---
 
